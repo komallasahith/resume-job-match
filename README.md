@@ -1,5 +1,5 @@
 # Resume-to-Job Match Agent
-🔗 **Live demo:** [your-app-name.streamlit.app](https://resume-job-match-p1.streamlit.app)
+🔗 **Live demo:** [resume-job-match-p1.streamlit.app](https://resume-job-match-p1.streamlit.app)
 
 An AI agent that compares your resume against multiple job descriptions,
 scores each match, explains its reasoning, and drafts tailored cover notes
